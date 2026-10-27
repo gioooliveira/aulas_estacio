@@ -1,0 +1,15 @@
+.d1{
+    width: 70vw;
+    height: 80vh;
+    background-color: aqua;
+    font-size: 80px;
+}
+
+p{
+    font-size: 0.05em;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
